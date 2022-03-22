@@ -1,10 +1,10 @@
-# #1 Fan ![Badge for License](https://img.shields.io/badge/license-Open-informational)
+# Number One Fan ![Badge for License](https://img.shields.io/badge/license-Open-informational)
 
 Made by [Leithen Crider](https://github.com/Thenlie), [Jill Holmes](https://github.com/Jillium), Benjamin Holt, and [Max Humpherys](https://github.com/maxh1231).
 
 ## Description
 
-#1 Fan is a collaborative project created as part of the University of Utah's full-stack developer bootcamp. It is intended to serve as a one-stop shop for music lovers to listen to and discover new music, save their favorite artists and albums, find upcoming concerts (for a specific artist or venue or the user's general location), and catalogue a user's attended concerts.
+Numbe One Fan is a collaborative project created as part of the University of Utah's full-stack developer bootcamp. It is intended to serve as a one-stop shop for music lovers to listen to and discover new music, save their favorite artists and albums, find upcoming concerts (for a specific artist or venue or the user's general location), and catalogue a user's attended concerts.
 
 The entire application – both front- and back-end – was built from the ground up using the below user story, acceptance criteria, APIs, and languages.
 
