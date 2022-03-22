@@ -4,7 +4,7 @@ Made by [Leithen Crider](https://github.com/Thenlie), [Jill Holmes](https://gith
 
 ## Description
 
-Numbe One Fan is a collaborative project created as part of the University of Utah's full-stack developer bootcamp. It is intended to serve as a one-stop shop for music lovers to listen to and discover new music, save their favorite artists and albums, find upcoming concerts (for a specific artist or venue or the user's general location), and catalogue a user's attended concerts.
+Number One Fan is a collaborative project created as part of the University of Utah's full-stack developer bootcamp. It is intended to serve as a one-stop shop for music lovers to listen to and discover new music, save their favorite artists and albums, find upcoming concerts (for a specific artist or venue or the user's general location), and catalogue a user's attended concerts.
 
 The entire application – both front- and back-end – was built from the ground up using the below user story, acceptance criteria, APIs, and languages.
 
